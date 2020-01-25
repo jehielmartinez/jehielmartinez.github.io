@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.c5ede8ab.chunk.css",
+    "main.js": "/portfolio-website/static/js/main.75fcd72a.chunk.js",
+    "main.js.map": "/portfolio-website/static/js/main.75fcd72a.chunk.js.map",
+    "runtime-main.js": "/portfolio-website/static/js/runtime-main.65e56ccf.js",
+    "runtime-main.js.map": "/portfolio-website/static/js/runtime-main.65e56ccf.js.map",
+    "static/js/2.ac4c5ecb.chunk.js": "/portfolio-website/static/js/2.ac4c5ecb.chunk.js",
+    "static/js/2.ac4c5ecb.chunk.js.map": "/portfolio-website/static/js/2.ac4c5ecb.chunk.js.map",
+    "index.html": "/portfolio-website/index.html",
+    "precache-manifest.6669145513aaae8c13b5d67616640c90.js": "/portfolio-website/precache-manifest.6669145513aaae8c13b5d67616640c90.js",
+    "service-worker.js": "/portfolio-website/service-worker.js",
+    "static/css/main.c5ede8ab.chunk.css.map": "/portfolio-website/static/css/main.c5ede8ab.chunk.css.map",
+    "static/js/2.ac4c5ecb.chunk.js.LICENSE": "/portfolio-website/static/js/2.ac4c5ecb.chunk.js.LICENSE",
+    "static/media/Jehiel_Martinez_CV.pdf": "/portfolio-website/static/media/Jehiel_Martinez_CV.aec03b59.pdf",
+    "static/media/oversight.jpg": "/portfolio-website/static/media/oversight.10a2f0d4.jpg",
+    "static/media/playground.jpg": "/portfolio-website/static/media/playground.2584c25f.jpg",
+    "static/media/profile-pic.jpg": "/portfolio-website/static/media/profile-pic.bd8e5c27.jpg",
+    "static/media/r-tracker.jpg": "/portfolio-website/static/media/r-tracker.5bffc909.jpg",
+    "static/media/stock-control.jpg": "/portfolio-website/static/media/stock-control.4744ee47.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65e56ccf.js",
+    "static/js/2.ac4c5ecb.chunk.js",
+    "static/css/main.c5ede8ab.chunk.css",
+    "static/js/main.75fcd72a.chunk.js"
+  ]
+}

@@ -8,7 +8,7 @@ export default function Footer () {
       <a
         rel='noopener noreferrer'
         target='_blank'
-        href='https://github.com/jehielmartinez/portfolio-website'
+        href='https://github.com/jehielmartinez/jehielmartinez.github.io/tree/source'
       >
         Source Code
       </a>

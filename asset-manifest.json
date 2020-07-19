@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91343789.chunk.css",
+    "main.js": "/static/js/main.a90ecd04.chunk.js",
+    "main.js.map": "/static/js/main.a90ecd04.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9f7fa874.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9f7fa874.js.map",
+    "static/js/2.730a1f4b.chunk.js": "/static/js/2.730a1f4b.chunk.js",
+    "static/js/2.730a1f4b.chunk.js.map": "/static/js/2.730a1f4b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7056c45d00dfe6704e1a0065471df3b9.js": "/precache-manifest.7056c45d00dfe6704e1a0065471df3b9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.91343789.chunk.css.map": "/static/css/main.91343789.chunk.css.map",
+    "static/js/2.730a1f4b.chunk.js.LICENSE.txt": "/static/js/2.730a1f4b.chunk.js.LICENSE.txt",
+    "static/media/Jehiel_Martinez_CV.pdf": "/static/media/Jehiel_Martinez_CV.aec03b59.pdf",
+    "static/media/beco.png": "/static/media/beco.57c87337.png",
+    "static/media/codeExitos.png": "/static/media/codeExitos.d29981ab.png",
+    "static/media/cryptos.png": "/static/media/cryptos.9062013b.png",
+    "static/media/oversight.jpg": "/static/media/oversight.10a2f0d4.jpg",
+    "static/media/playground.jpg": "/static/media/playground.2584c25f.jpg",
+    "static/media/profile-pic.jpg": "/static/media/profile-pic.bd8e5c27.jpg",
+    "static/media/r-tracker.jpg": "/static/media/r-tracker.5bffc909.jpg",
+    "static/media/stock-control.jpg": "/static/media/stock-control.4744ee47.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f7fa874.js",
+    "static/js/2.730a1f4b.chunk.js",
+    "static/css/main.91343789.chunk.css",
+    "static/js/main.a90ecd04.chunk.js"
+  ]
+}

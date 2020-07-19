@@ -1,6 +1,6 @@
 import becoLogo from './images/beco.png'
 import cexLogo from './images/codeExitos.png'
-import aboutMarkdown from './about.md'
+import about from './markdown/about.md'
 
 const resume = {
   profile: {
@@ -35,7 +35,7 @@ const resume = {
     'EAGLE CAD',
     'Fusion 360'
   ],
-  about: aboutMarkdown,
+  about,
   experience: [
     {
       company: 'CODE Exitos',

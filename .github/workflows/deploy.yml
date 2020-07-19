@@ -2,7 +2,7 @@ name: Deploy to gh-pages
 on:
   push:
     branches:
-      - master
+      - source
 jobs:
   test-and-deploy:
     runs-on: ubuntu-latest
@@ -22,3 +22,4 @@ jobs:
         with:
           deploy_key: ${{ secrets.DEPLOY_KEY }}
           publish_dir: ./build
+          publish_branch: master

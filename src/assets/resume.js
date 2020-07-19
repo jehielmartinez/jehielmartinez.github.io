@@ -80,7 +80,7 @@ const resume = {
       name: 'Oversight',
       image: 'oversight.jpg',
       description: 'Oversight is a platform created to ease the administration of residential areas in Honduras thru a mobile-based app. I develop the app in React Native, Nodejs, Express and MongoDB. The web app was developed using ReactJS.',
-      link: 'https://www.oversight.hn'
+      link: ''
     },
     {
       name: 'Cryptos',

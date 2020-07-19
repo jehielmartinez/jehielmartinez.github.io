@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faDownload } from '@fortawesome/free-solid-svg-icons'
 import resume from '../assets/Jehiel_Martinez_CV.pdf'
 
-export default function DowloadButton () {
+export default function DownloadButton () {
   return (
     <div className='download-section'>
       <a href={resume} download='Jehiel Martinez CV'>

@@ -135,6 +135,18 @@
     transform: scale(1.2);
 }
 
+/* WEBINARS CARD */
+.webinars-card__webinars{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    max-height: 550px;
+    overflow-y: scroll;
+}
+.webinars-card__webinars--element{
+    flex: 1;
+}
+
 .download-section {
     display: flex;
     justify-content: center;

@@ -10,6 +10,7 @@ import Experience from '../../components/Experience'
 import Footer from '../../components/Footer'
 import ProjectModal from '../../components/ProjectModal'
 import Education from '../../components/Education'
+import WebinarsAndBlogs from '../../components/WebinarsAndBlogs'
 import './ResumePage.css'
 
 export default function ResumePage () {
@@ -28,23 +29,11 @@ export default function ResumePage () {
 
   const renderProjectModal = () => {
     if (show) {
-      return (
-        <ProjectModal
-          closeModal={closeModal}
-          project={selectedProject}
-        />
-      )
+      return <ProjectModal closeModal={closeModal} project={selectedProject} />
     }
   }
 
-  const {
-    profile,
-    skills,
-    about,
-    projects,
-    experience,
-    education
-  } = resume
+  const { profile, skills, about, projects, experience, education, webinars } = resume
 
   return (
     <>
@@ -53,10 +42,10 @@ export default function ResumePage () {
         <section className='profile_section'>
           <Profile profile={profile} />
           <Skills skills={skills} />
+          <WebinarsAndBlogs webinars={webinars} />
           <Twitter />
           <DownloadButton />
         </section>
-
         <section className='career_section'>
           <About about={about} />
           <Projects projects={projects} openModal={openModal} />

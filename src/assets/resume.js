@@ -33,6 +33,12 @@ const resume = {
     'Circuit Board Design',
     '3D Parts Design'
   ],
+  webinars: [
+    'https://www.youtube.com/watch?v=sLYdZSgstgw',
+    'https://www.youtube.com/watch?v=fO-SPpzeaGg',
+    'https://www.youtube.com/watch?v=aTZVKykOe4s',
+    'https://www.youtube.com/watch?v=Jd6W3EsScqA'
+  ],
   about,
   experience: [
     {

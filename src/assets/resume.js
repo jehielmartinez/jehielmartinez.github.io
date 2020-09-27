@@ -18,12 +18,12 @@ const resume = {
     codepen: 'jehielmartinez'
   },
   skills: [
-    'React',
     'Javascript',
+    'React',
     'React Native',
-    'HTML',
-    'CSS',
-    'Bootstrap',
+    'HTML5',
+    'CSS3',
+    'AWS Amplify',
     'NodeJS',
     'Express',
     'Firebase',
@@ -31,9 +31,7 @@ const resume = {
     'Arduino',
     'AVR',
     'Circuit Board Design',
-    '3D Parts Design',
-    'EAGLE CAD',
-    'Fusion 360'
+    '3D Parts Design'
   ],
   about,
   experience: [
@@ -44,7 +42,13 @@ const resume = {
       position: 'Software Engineer',
       startDate: '1/11/2019',
       endDate: 'now',
-      activities: []
+      activities: [
+        'Performed daily development tasks using React and React Native',
+        'Managed multiple projects and teams',
+        'Deliver mobile and web applications to production',
+        'Developed backend serverless architecture with AWS Amplify',
+        'Directly involved in all the lifecycle of development'
+      ]
     },
     {
       company: 'Bijao Electric Company S.A.',
@@ -55,9 +59,9 @@ const resume = {
       endDate: '31/10/2019',
       activities: [
         'Ensure the correct operation of all equipments on plant.',
-        'Supervise and asign tasks to field technician operators daily.',
+        'Supervise and assign tasks to field technician operators daily.',
         'Plan an execute daily equipment field inspections.',
-        'Report and optimize production, consumption and performace values.',
+        'Report and optimize production, consumption and performance values.',
         'Create the Operations Manual for every equipment in plant.'
       ]
     },
@@ -71,7 +75,7 @@ const resume = {
       activities: [
         'Ensure the reliable operation of a 35MW steam turbine and generator unit.',
         'Attend and control of emergencies like homeloads, blackouts or operation failures.',
-        'Supervise the correct maintenace and operation of equipments during shutdowns.'
+        'Supervise the correct maintenance and operation of equipments during shutdowns.'
       ]
     }
   ],
@@ -90,26 +94,34 @@ const resume = {
         'Quick check price of your favorite Cryptocurrency! React app exploring Styled Components and Hooks',
       link: 'http://jehielmartinez.github.io/cryptos'
     },
-    {
-      name: 'Stock Control App',
-      image: 'stock-control.jpg',
-      description:
-        'Stock Control is a web-based application to control the tool loans and material existence in the operations department local hardware store at Bijao Electric Company S.A. Created with ReactJS, MongoDB, Nodejs, Express, Bootstrap.',
-      link: ''
-    },
-    {
-      name: 'RTracker App',
-      image: 'r-tracker.jpg',
-      description:
-        'The R-Tracker stands for Responsibilities Tracker, is a simple personal tool to remember and keep track of all the pending bills every fifteen days. Created with React Native, Nodejs, Express, MongoDB.',
-      link: ''
-    },
+    // {
+    //   name: 'Stock Control App',
+    //   image: 'stock-control.jpg',
+    //   description:
+    //     'Stock Control is a web-based application to control the tool loans and material existence in the operations department local hardware store at Bijao Electric Company S.A. Created with ReactJS, MongoDB, Nodejs, Express, Bootstrap.',
+    //   link: ''
+    // },
+    // {
+    //   name: 'RTracker App',
+    //   image: 'r-tracker.jpg',
+    //   description:
+    //     'The R-Tracker stands for Responsibilities Tracker, is a simple personal tool to remember and keep track of all the pending bills every fifteen days. Created with React Native, Nodejs, Express, MongoDB.',
+    //   link: ''
+    // },
     {
       name: 'Playground App',
       image: 'playground.jpg',
       description:
         'Playground was a start-up project to create a platform for the reservation, rent and administration of mini soccer playing fields in Honduras. Created with Ionic4 and Firebase as backend. Web app developed in AngularJS',
       link: ''
+    },
+    {
+      name: 'Frontyard App',
+      image: 'frontyard.png',
+      description:
+        'I worked as Tech Lead and Developer of the whole platform including a CMS in React, App in React Native, deployments to App Store and Play Store using Fastlane, and AWS Serverless backend.',
+      playStore: 'https://play.google.com/store/apps/details?id=com.frontyard',
+      appStore: 'https://apps.apple.com/us/app/frontyard/id1517903702'
     }
   ],
   education: [

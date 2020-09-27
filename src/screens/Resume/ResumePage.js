@@ -60,8 +60,8 @@ export default function ResumePage () {
         <section className='career_section'>
           <About about={about} />
           <Projects projects={projects} openModal={openModal} />
-          <Education education={education} />
           <Experience experience={experience} />
+          <Education education={education} />
         </section>
       </main>
       <Footer />

@@ -287,4 +287,16 @@
 .project-modal__content--description p{
     text-align: justify;
 }
+.project-modal__content--link{
+    width: 100px;
+    cursor: pointer;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.project-modal__content--ios{
+    width: 100px;
+}
+.project-modal__content--android{
+    width: 115px;
+}
     

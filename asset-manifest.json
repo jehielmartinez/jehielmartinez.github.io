@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.91343789.chunk.css",
-    "main.js": "/static/js/main.4ed5b9a6.chunk.js",
-    "main.js.map": "/static/js/main.4ed5b9a6.chunk.js.map",
+    "main.css": "/static/css/main.cfb694b5.chunk.css",
+    "main.js": "/static/js/main.7858ae4a.chunk.js",
+    "main.js.map": "/static/js/main.7858ae4a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9f7fa874.js",
     "runtime-main.js.map": "/static/js/runtime-main.9f7fa874.js.map",
-    "static/js/2.04f76564.chunk.js": "/static/js/2.04f76564.chunk.js",
-    "static/js/2.04f76564.chunk.js.map": "/static/js/2.04f76564.chunk.js.map",
+    "static/js/2.547cf2ea.chunk.js": "/static/js/2.547cf2ea.chunk.js",
+    "static/js/2.547cf2ea.chunk.js.map": "/static/js/2.547cf2ea.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.831cfc29cb8399957a1554dd7390603c.js": "/precache-manifest.831cfc29cb8399957a1554dd7390603c.js",
+    "precache-manifest.9fbaf0b6238aeb234d049ababbc53fab.js": "/precache-manifest.9fbaf0b6238aeb234d049ababbc53fab.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.91343789.chunk.css.map": "/static/css/main.91343789.chunk.css.map",
-    "static/js/2.04f76564.chunk.js.LICENSE.txt": "/static/js/2.04f76564.chunk.js.LICENSE.txt",
+    "static/css/main.cfb694b5.chunk.css.map": "/static/css/main.cfb694b5.chunk.css.map",
+    "static/js/2.547cf2ea.chunk.js.LICENSE.txt": "/static/js/2.547cf2ea.chunk.js.LICENSE.txt",
     "static/media/Jehiel_Martinez_CV.pdf": "/static/media/Jehiel_Martinez_CV.aec03b59.pdf",
     "static/media/about.md": "/static/media/about.e500998c.md",
     "static/media/beco.png": "/static/media/beco.57c87337.png",
     "static/media/codeExitos.png": "/static/media/codeExitos.d29981ab.png",
     "static/media/cryptos.png": "/static/media/cryptos.9062013b.png",
+    "static/media/frontyard.png": "/static/media/frontyard.178e53a6.png",
     "static/media/oversight.jpg": "/static/media/oversight.10a2f0d4.jpg",
     "static/media/playground.jpg": "/static/media/playground.2584c25f.jpg",
     "static/media/profile-pic.jpg": "/static/media/profile-pic.bd8e5c27.jpg",
@@ -25,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9f7fa874.js",
-    "static/js/2.04f76564.chunk.js",
-    "static/css/main.91343789.chunk.css",
-    "static/js/main.4ed5b9a6.chunk.js"
+    "static/js/2.547cf2ea.chunk.js",
+    "static/css/main.cfb694b5.chunk.css",
+    "static/js/main.7858ae4a.chunk.js"
   ]
 }
